@@ -1,19 +1,23 @@
+
 <!DOCTYPE html>
 <html>
 
 <head>
-<title> Home Page </title>
-<link rel="stylesheet" href="style.css" >
-
+<style> 
+.text-center 
+{
+  text-align: center;
+}
+</style>
 </head>
 
 
 <body>
-  <h2 class = "text-center red"> mringl01  </h2>
+  <h2 class = "text-center"> Kermit Zwindle </h2>
   <p class = "text-center" > 
-      <a href= "bio.html" >Bio</a> 
+      <a href= "www.google.com" > Resume</a> 
       <h>   </h>
-      <a href= "resume.html" >Resume</a>
+      <button> Biography </button>
   </p>
   <p class = "text-center" >
   <img src=https://4.bp.blogspot.com/-phREc0UvkQQ/T0wHmurCCOI/AAAAAAAAD-Q/5Mw9LZsZCRo/s1600/cha-cha-real-smooth-cat-cats-kitten-kitty-pic-picture-funny-lolcat-cute-fun-lovely-photo-images.jpg alt= "cat" >
