@@ -9,7 +9,7 @@
 
 
 <body class= "background" >
-  <h2 class = "text-center nice-font cadetblue title-size"> mringl01  </h2>
+  <p class = "title"> mringl01  </p>
   <p class = "text-center body-size" > 
       <a href= "bio.html" >Biography</a> 
       <h>   </h>
