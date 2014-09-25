@@ -5,30 +5,43 @@
 <html>
 	<head>
 	<title> Resume </title>
+	<meta name="viewpoint" content="width = device-width; 
+	initial-scale=1.0;
+	maximum-scale=4.0;">
 	<link rel="stylesheet" href="style.css" >
 	<meta charset="UTF-8">
 	</head>
 
-	<body class = "background-color">
+	<body class = "background">
 		<p class= "header"> Resume </p>
 		<hr/>
+		
+		<div class = "content" >
+		
 		<dl> <dt> Education </dt> <dd> Tufts University </dd>
 		</dl>
+		
 		<dl> <dt> Relevant Course Work </dt> 
 		      <dd> Advanced Swimming <dd>
 		      <dd> Super Advanced Swimming <dd>
 		      <dd> Uber Super Advanced Swimming <dd>
 		</dl>
+		
 		<dl> <dt>Professional Experience </dt>
 		      <dd> Swimming in a professional pool with professionals<dd>
 		      <dd> Experiencing Michael Phelps win gold medals <dd>
 		</dl>
+		
 		<dl> <dt> Skills </dt> 
 		     <dd> Swimming <dd>
 		</dl>
+		
 		<dl> <dt> Activities<dt>
 		      <dd> Swimming <dd>
 		</dl>
+		
+		</div>
+		
 		
 	
 	</body>
